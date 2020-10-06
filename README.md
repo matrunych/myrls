@@ -3,7 +3,7 @@
 ## Team
 
  - [Olena Matrunych](https://github.com/matrunych)
- - [Danylo Nazaruk](https://github.com/h4whing)
+ - [Danylo Nazaruk](https://github.com/H4wking)
 
 ## Prerequisites
 
